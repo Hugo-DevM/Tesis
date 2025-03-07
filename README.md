@@ -24,8 +24,6 @@ Determinar cuál de los dos frameworks ofrece un mejor equilibrio entre rendimie
 ## 📂 Estructura del Repositorio
 ```
 📂 root
- ├── 📂 flutter-app        # Código fuente de la aplicación en Flutter
- ├── 📂 react-native-app   # Código fuente de la aplicación en React Native
  ├── 📂 tesis              # Documentación de la tesis
  ├── 📜 README.md          # Este archivo
  ├── 📜 LICENSE            # Este archivo
